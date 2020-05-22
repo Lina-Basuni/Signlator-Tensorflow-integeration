@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SignLator2</string>
+    <string name="intro_message">
+        <![CDATA[
+            This sample demonstrates the basic use of TfLite API. Check the source code to see how
+            you can use TfLite for efficient, on-device inference with trained TensorFlow models.
+        ]]>
+    </string>
+    <string name="threads">Threads:</string>
+</resources>
